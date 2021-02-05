@@ -1,7 +1,5 @@
-<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-<span class="iconify" data-icon="file-icons:templatetoolkit" data-inline="false"></span>
 <div align="center">
-  <img src="app-small.png" width="50px" alt="pixss" />
+  <img src="docs/svelte.svg" width="80px" alt="pixss" />
   <h3>SESTS </h3>
   <p>A boilerplate project for Svelte Jest TypeScript </p>
   <p>
@@ -16,7 +14,7 @@
 
 ---
 
-#### Svelte + TypeScript + Jest
+### Svelte + TypeScript + Jest
 
 This is a project template for [Svelte](https://svelte.dev) apps. It's based on the official one from https://github.com/sveltejs/template.
 
@@ -24,7 +22,23 @@ This one has been pre-setup with TypeScript and Jest testing support.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
+
+### Getting started
 ```bash
 npx degit vikbert/sests svelte-app
 cd svelte-app
+npm install
 ```
+
+### Start Dev
+```bash
+npm run dev
+```
+
+### Start tests
+```bash
+npm run test 
+```
+
+
+
