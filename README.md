@@ -11,15 +11,12 @@
     <a href="#">
       <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square" alt="MIT License">
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/bundlephobia/minzip/pixss?style=flat-square" alt="MIT License">
-    </a>
   </p>
 </div>
 
 ---
 
-## Svelte + TypeScript + Jest
+#### Svelte + TypeScript + Jest
 
 This is a project template for [Svelte](https://svelte.dev) apps. It's based on the official one from https://github.com/sveltejs/template.
 
